@@ -6,3 +6,4 @@
  * @license WTFPL (http://www.wtfpl.net/txt/copying)
  * @see https://gist.github.com/ShirtlessKirk/eb41720a797411defae6
  */
+alert("Hello! I am an alert box!!");
